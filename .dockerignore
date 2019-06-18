@@ -1,0 +1,14 @@
+/pip-selfcheck.json
+/lib/
+/bin/
+/include/
+*.pyc
+*.zip
+*.tar
+*.gz
+.idea
+*.rpm
+*.exe
+
+db.*
+[0-9][0-9][0-9]*.py
