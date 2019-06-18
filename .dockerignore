@@ -9,6 +9,6 @@
 .idea
 *.rpm
 *.exe
-
+*.run_single_py_script
 db.*
 [0-9][0-9][0-9]*.py
